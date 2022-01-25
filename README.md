@@ -4,6 +4,12 @@ SerialTCP2Midi interface for FS-UAE Serial
 I created this to fill up a small gap for FS-UAE, as some games like Sierra games prefers Roland MT32 MIDI synthesizer.
 FS-UAE before 4 can send raw MIDI commands via Serial. However, a lack of a program to process this and forward it to the synthersizer caused me to create this script.
 
+## Binary
+If you are looking for a binary as you do not use python or have python installed and want something that just works?
+https://drive.google.com/file/d/1a-MKelnRg1cdS1xY5L1OYecFIgUuFyo0/view?usp=sharing
+
+Go to Additional information for more information.
+
 ## Requirements:
 mido
 rtmidi
