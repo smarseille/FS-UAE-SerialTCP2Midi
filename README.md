@@ -22,6 +22,9 @@ pip install mido
 install rtmidi:
 pip install rtmidi
 
+if this causes problem, try: 
+pip install python-rtmidi
+
 This may not work for everyone, in that case get a whl version corresponding to your python version here:
 https://pypi.org/project/python-rtmidi/#files
 
